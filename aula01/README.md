@@ -27,16 +27,12 @@
 * Nomes de variáveis não podem começar com números, e não podem ter espaço
 * Note que `input`, assim como `print`, é uma função. Para executar uma função, utilizamos a sintaxe de chamada de função com parênteses: `input('mensagem')` e `print('mensagem')`.
   * Note que apesar de `print` e `input` imprimirem uma mensagem no terminal, `print` não retorna nenhum valor enquanto `input` retorna o valor digitado pelo usuário.
-* Slides - Imagine a memória do computador como se fosse uma grande tabela. O valor que foi lido pela função `input` vai ser salvo em um determinado endereço na memória, então a variável `nome` vai apontar para este endereço.
-* Quando a função `print` imprime a variável `nome`, ela busca o conteúdo da memória para onde a variável `nome` aponta.
-* Note que, ao contrário de `print`, `input` não acrescenta uma quebra de linha automaticamente no final da string. Podemos colocar um `\n` no final para melhorar isso.
 * Podemos imprimir textos e variáveis juntos em uma mesma mensagem. Para isso, utilizamos o operador `+` para _concatenar_ a string e a variável.
 
 ## Desafio 1
 Resolva o desafio proposto no [arquivo do desafio](./04_desafio_1.py)
 
 ## Tipos de dados
-* Introdução - slide
 ### 04_types.py
 * Para identificar o tipo das variáveis, nós podemos usar a função `type`
 * Não é possível concatenar variáveis de tipos diferentes. Para imprimir uma mensagem com uma variável que não seja do tipo string, precisamos converter essa variável para o tipo string usando a função `str`
