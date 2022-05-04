@@ -1,0 +1,1808 @@
+{
+    "Summoning Charm": {
+        "encantamento": "Accio",
+        "tipo": "Charm",
+        "descricao": "Summons an object",
+        "cor_da_luz": "None"
+    },
+    "Age Line": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Prevents people above or below a certain age from access to a target",
+        "cor_da_luz": "Blue"
+    },
+    "Water-Making Spell": {
+        "encantamento": "Aguamenti",
+        "tipo": "Charm",
+        "descricao": "Conjuration",
+        "cor_da_luz": "Conjures water"
+    },
+    "Launch an object up into the air": {
+        "encantamento": "Alarte Ascendare",
+        "tipo": "Charm",
+        "descricao": "Rockets target upward",
+        "cor_da_luz": "Red"
+    },
+    "Albus Dumbledore's Forceful Spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Great Force",
+        "cor_da_luz": "None"
+    },
+    "Unlocking Charm": {
+        "encantamento": "Alohomora",
+        "tipo": "Charm",
+        "descricao": "Unlocks target",
+        "cor_da_luz": "Invisible"
+    },
+    "Healing Spell": {
+        "encantamento": "Anapneo",
+        "tipo": "Healing spell",
+        "descricao": "Vanishment",
+        "cor_da_luz": "Clears airway"
+    },
+    "Hex that grows antlers on the head": {
+        "encantamento": "Anteoculatia",
+        "tipo": "Hex",
+        "descricao": "Grows antlers on head",
+        "cor_da_luz": "Red"
+    },
+    "Anti-Cheating Spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Prevents cheating",
+        "cor_da_luz": "Purple"
+    },
+    "Anti-Disapparition Jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Prevents Disapparition within a certain area",
+        "cor_da_luz": ""
+    },
+    "Anti-intruder jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Repels intruders",
+        "cor_da_luz": ""
+    },
+    "Antonin Dolohov's curse": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Injuries capable of killing",
+        "cor_da_luz": "Purple"
+    },
+    "Revealing Charm": {
+        "encantamento": "Aparecium",
+        "tipo": "Charm",
+        "descricao": "Reveals hidden writing",
+        "cor_da_luz": ""
+    },
+    "Tracking spell": {
+        "encantamento": "Appare Vestigium",
+        "tipo": "Charm",
+        "descricao": "Reveals traces of magic",
+        "cor_da_luz": "including footprints and track marks"
+    },
+    "Apparition": {
+        "encantamento": "None",
+        "tipo": "Transportation",
+        "descricao": "Magically transports the caster",
+        "cor_da_luz": "None"
+    },
+    "Aqua Eructo Charm": {
+        "encantamento": "Aqua Eructo",
+        "tipo": "Charm",
+        "descricao": "Jet of water",
+        "cor_da_luz": "Ice Blue"
+    },
+    "Spider repelling spell": {
+        "encantamento": "Arania Exumai",
+        "tipo": "Spell",
+        "descricao": "Repels spiders",
+        "cor_da_luz": "Blue"
+    },
+    "Slowing Charm": {
+        "encantamento": "Arresto Momentum",
+        "tipo": "Charm",
+        "descricao": "Slows or stops target's velocity",
+        "cor_da_luz": "None"
+    },
+    "Arrow-shooting spell": {
+        "encantamento": "",
+        "tipo": "Conjuration",
+        "descricao": "Fires arrows from the caster's wand",
+        "cor_da_luz": ""
+    },
+    "Ascendio": {
+        "encantamento": "Ascendio",
+        "tipo": "Charm",
+        "descricao": "Lifts caster",
+        "cor_da_luz": "None"
+    },
+    "Killing Curse": {
+        "encantamento": "Avada Kedavra",
+        "tipo": "Curse",
+        "descricao": "Instantaneous death",
+        "cor_da_luz": "Green"
+    },
+    "Avifors Spell": {
+        "encantamento": "Avifors",
+        "tipo": "Transfiguration",
+        "descricao": "Transforms the target into a bird.",
+        "cor_da_luz": "Blue"
+    },
+    "Avenseguim": {
+        "encantamento": "Avenseguim",
+        "tipo": "Charm",
+        "descricao": "Turns object into tracking device",
+        "cor_da_luz": "Orange"
+    },
+    "Bird-Conjuring Charm": {
+        "encantamento": "Avis",
+        "tipo": "Conjuration",
+        "descricao": "Charm",
+        "cor_da_luz": "Conjures birds"
+    },
+    "Babbling Curse": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Uncontrollable babbling",
+        "cor_da_luz": ""
+    },
+    "Badgering": {
+        "encantamento": "Desconhecido",
+        "tipo": "Transfiguration",
+        "descricao": "Turns target human into a badger",
+        "cor_da_luz": ""
+    },
+    "Bat-Bogey Hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Transforms target's bogeys into bats",
+        "cor_da_luz": ""
+    },
+    "Baubillious": {
+        "encantamento": "Baubillious",
+        "tipo": "Charm",
+        "descricao": "Jet of white sparks",
+        "cor_da_luz": "White"
+    },
+    "Bedazzling Hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Disguises things",
+        "cor_da_luz": ""
+    },
+    "Bewitched Snowballs": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Charms snowballs to follow and harass a designated target",
+        "cor_da_luz": ""
+    },
+    "Bluebell Flames": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Conjures bluebell flames",
+        "cor_da_luz": "Bright blue"
+    },
+    "Blue sparks": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Jet of blue sparks",
+        "cor_da_luz": "Blue"
+    },
+    "Exploding Charm": {
+        "encantamento": "Bombarda",
+        "tipo": "Charm",
+        "descricao": "Small explosion",
+        "cor_da_luz": "None"
+    },
+    "Exploding Charm 2": {
+        "encantamento": "Bombarda Maxima",
+        "tipo": "Charm",
+        "descricao": "Powerful explosion",
+        "cor_da_luz": "White"
+    },
+    "Brackium Emendo": {
+        "encantamento": "Brackium Emendo",
+        "tipo": "Healing spell",
+        "descricao": "Charm",
+        "cor_da_luz": "Mends bones"
+    },
+    "Bravery Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Enhances teammates against foes",
+        "cor_da_luz": ""
+    },
+    "Bridge-conjuring spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Conjuration",
+        "descricao": "Conjures bridges",
+        "cor_da_luz": "None"
+    },
+    "Broom jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Makes a broomstick attempt to buck its rider off",
+        "cor_da_luz": ""
+    },
+    "Bubble-Head Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Creates bubble protecting the head",
+        "cor_da_luz": ""
+    },
+    "Bubble-producing spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Conjuration",
+        "descricao": "Creates a stream of non-bursting bubbles",
+        "cor_da_luz": "None"
+    },
+    "Hair Loss Curse": {
+        "encantamento": "Calvorio",
+        "tipo": "Curse",
+        "descricao": "Removes victim's hair",
+        "cor_da_luz": "Red or Purple"
+    },
+    "Cantis": {
+        "encantamento": "Cantis",
+        "tipo": "Jinx",
+        "descricao": "Makes target sing",
+        "cor_da_luz": "Pink"
+    },
+    "Extension Charm": {
+        "encantamento": "Capacious extremis",
+        "tipo": "Charm",
+        "descricao": "Increases interior space",
+        "cor_da_luz": ""
+    },
+    "Seize and Pull Charm": {
+        "encantamento": "Carpe Retractum",
+        "tipo": "Charm",
+        "descricao": "Pull caster towards object",
+        "cor_da_luz": "Pull object towards caster"
+    },
+    "Cascading Jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Attacks multiple enemies",
+        "cor_da_luz": "Blue"
+    },
+    "Caterwauling Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Sets off a high-pitched shriek if entered",
+        "cor_da_luz": ""
+    },
+    "Cauldron to Sieve": {
+        "encantamento": "",
+        "tipo": "Transfiguration",
+        "descricao": "Turns a cauldron into a sieve",
+        "cor_da_luz": ""
+    },
+    "Cauldron to badger": {
+        "encantamento": "",
+        "tipo": "Transformation",
+        "descricao": "Transforms a cauldron into a badger.",
+        "cor_da_luz": ""
+    },
+    "Cave inimicum": {
+        "encantamento": "Cave inimicum",
+        "tipo": "Charm",
+        "descricao": "Concealment",
+        "cor_da_luz": "None"
+    },
+    "Cheering Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Creates joy",
+        "cor_da_luz": ""
+    },
+    "Circumrota": {
+        "encantamento": "Circumrota",
+        "tipo": "Charm",
+        "descricao": "Rotates an object",
+        "cor_da_luz": ""
+    },
+    "Cistem Aperio": {
+        "encantamento": "Cistem Aperio",
+        "tipo": "Charm",
+        "descricao": "Opens chests",
+        "cor_da_luz": "White"
+    },
+    "Locking Spell": {
+        "encantamento": "Colloportus",
+        "tipo": "Charm",
+        "descricao": "Locks doors",
+        "cor_da_luz": "None"
+    },
+    "Stickfast Hex": {
+        "encantamento": "Colloshoo",
+        "tipo": "Hex",
+        "descricao": "Sticks shoes to floor",
+        "cor_da_luz": ""
+    },
+    "Colour Change Charm": {
+        "encantamento": "Colovaria",
+        "tipo": "Charm",
+        "descricao": "Changes colour",
+        "cor_da_luz": "Red"
+    },
+    "Blasting Curse": {
+        "encantamento": "Confringo",
+        "tipo": "Curse",
+        "descricao": "Explosion",
+        "cor_da_luz": "Fiery Orange"
+    },
+    "Confundus Charm": {
+        "encantamento": "Confundo",
+        "tipo": "Charm",
+        "descricao": "Confuses the target",
+        "cor_da_luz": "Pink"
+    },
+    "Conjunctivitis Curse": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Irritates eyes",
+        "cor_da_luz": ""
+    },
+    "Cornflake skin spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Dark charm",
+        "descricao": "Makes skin appear like cornflakes",
+        "cor_da_luz": ""
+    },
+    "Cracker Jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Conjures exploding Wizard Crackers",
+        "cor_da_luz": ""
+    },
+    "Cribbing Spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Assists the caster in cheating on written papers.",
+        "cor_da_luz": ""
+    },
+    "Crinus Muto": {
+        "encantamento": "Crinus Muto",
+        "tipo": "Transfiguration",
+        "descricao": "Transforms hair",
+        "cor_da_luz": "White"
+    },
+    "Cruciatus Curse": {
+        "encantamento": "Crucio",
+        "tipo": "Curse",
+        "descricao": "Excruciating pain",
+        "cor_da_luz": "Red or None"
+    },
+    "Gouging Spell": {
+        "encantamento": "Defodio",
+        "tipo": "Charm",
+        "descricao": "Carves through material",
+        "cor_da_luz": ""
+    },
+    "Eradication Spell": {
+        "encantamento": "Deletrius",
+        "tipo": "Charm",
+        "descricao": " Counter-charm",
+        "cor_da_luz": "Erases image from Reverse Spell"
+    },
+    "Densaugeo": {
+        "encantamento": "Densaugeo",
+        "tipo": "Hex ",
+        "descricao": "Elongates teeth",
+        "cor_da_luz": "Violet"
+    },
+    "Deprimo": {
+        "encantamento": "Deprimo",
+        "tipo": "Charm",
+        "descricao": "Blasts holes in ground",
+        "cor_da_luz": "Green"
+    },
+    "Banishing Charm": {
+        "encantamento": "Depulso",
+        "tipo": "Charm",
+        "descricao": "Sends target away",
+        "cor_da_luz": "White or Red"
+    },
+    "Descendo": {
+        "encantamento": "Descendo",
+        "tipo": "Charm",
+        "descricao": "Lowers target",
+        "cor_da_luz": "Blue"
+    },
+    "Desk Into Pig": {
+        "encantamento": "",
+        "tipo": "Transfiguration",
+        "descricao": "Transfigures desks into pigs",
+        "cor_da_luz": ""
+    },
+    "Deterioration Hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Impairs foes",
+        "cor_da_luz": ""
+    },
+    "Severing Charm": {
+        "encantamento": "Diffindo",
+        "tipo": "Charm",
+        "descricao": "Cuts objects",
+        "cor_da_luz": "Light green"
+    },
+    "Diminuendo": {
+        "encantamento": "Diminuendo",
+        "tipo": "Charm",
+        "descricao": "Shrinks objects",
+        "cor_da_luz": "White"
+    },
+    "Dissendium": {
+        "encantamento": "Dissendium",
+        "tipo": "Charm",
+        "descricao": "Reveals secret passages",
+        "cor_da_luz": "None"
+    },
+    "Disillusionment Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Disguises target as surroundings",
+        "cor_da_luz": "White"
+    },
+    "Draconifors Spell": {
+        "encantamento": "Draconifors",
+        "tipo": "Transfiguration",
+        "descricao": "Turns object into dragon",
+        "cor_da_luz": "Fiery orange"
+    },
+    "Drought Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Dries up small bodies of water",
+        "cor_da_luz": ""
+    },
+    "Ducklifors Jinx": {
+        "encantamento": "Ducklifors",
+        "tipo": "Transfiguration",
+        "descricao": " Jinx",
+        "cor_da_luz": "Turns organisms to ducks"
+    },
+    "Hardening Charm": {
+        "encantamento": "Duro",
+        "tipo": "Charm",
+        "descricao": "Turns object to stone",
+        "cor_da_luz": "None"
+    },
+    "Ears to kumquats": {
+        "encantamento": "",
+        "tipo": "Transfiguration",
+        "descricao": "Transfigures target's ears into kumquats",
+        "cor_da_luz": ""
+    },
+    "Ear-shrivelling Curse": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Causes ears to wither",
+        "cor_da_luz": ""
+    },
+    "Ebublio Jinx": {
+        "encantamento": "Ebublio",
+        "tipo": "Jinx",
+        "descricao": "Traps target in giant bubble",
+        "cor_da_luz": "Blue"
+    },
+    "Engorgement Charm": {
+        "encantamento": "Engorgio",
+        "tipo": "Charm",
+        "descricao": "Causes swelling",
+        "cor_da_luz": "Icy blue"
+    },
+    "Engorgio Skullus": {
+        "encantamento": "Engorgio Skullus",
+        "tipo": "Hex",
+        "descricao": "Swells head",
+        "cor_da_luz": "Red or Purple"
+    },
+    "Insect Jinx": {
+        "encantamento": "Entomorphis",
+        "tipo": "Transfiguration Jinx",
+        "descricao": "Turns into insect",
+        "cor_da_luz": "Red or Purple"
+    },
+    "Entrail-Expelling Curse": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Expels entrails",
+        "cor_da_luz": ""
+    },
+    "Epoximise": {
+        "encantamento": "Epoximise",
+        "tipo": "Transfiguration spell",
+        "descricao": "Bonds two objects",
+        "cor_da_luz": ""
+    },
+    "Erecto": {
+        "encantamento": "Erecto",
+        "tipo": "Charm",
+        "descricao": "Erects a structure",
+        "cor_da_luz": "None"
+    },
+    "Evanesce": {
+        "encantamento": "Evanesce",
+        "tipo": "Transfiguration",
+        "descricao": "Vanishes objects",
+        "cor_da_luz": "Bluish-white"
+    },
+    "Vanishing Spell": {
+        "encantamento": "Evanesco",
+        "tipo": "Transfiguration",
+        "descricao": "Vanishes things",
+        "cor_da_luz": "None"
+    },
+    "Everte Statum": {
+        "encantamento": "Everte Statum",
+        "tipo": "Charm",
+        "descricao": "Makes opponent stumble",
+        "cor_da_luz": "Causes sharp pain"
+    },
+    "Patronus Charm": {
+        "encantamento": "Expecto Patronum",
+        "tipo": "Charm",
+        "descricao": "Conjures a spirit guardian",
+        "cor_da_luz": "Silver"
+    },
+    "Disarming Charm": {
+        "encantamento": "Expelliarmus",
+        "tipo": "Charm",
+        "descricao": "Disarms an opponent",
+        "cor_da_luz": "Scarlet"
+    },
+    "Expulso Curse": {
+        "encantamento": "Expulso",
+        "tipo": "Curse",
+        "descricao": "Blows things up",
+        "cor_da_luz": "Blue"
+    },
+    "Extinguishing Spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Extinguishes fires",
+        "cor_da_luz": ""
+    },
+    "False memory charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Implants a false memory in the victim",
+        "cor_da_luz": ""
+    },
+    "Feather-light charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Minimises object's weight",
+        "cor_da_luz": ""
+    },
+    "Ferret to human": {
+        "encantamento": "Desconhecido",
+        "tipo": "Transfiguration",
+        "descricao": "Changes ferrets into humans",
+        "cor_da_luz": "None"
+    },
+    "Bandaging Charm": {
+        "encantamento": "Ferula",
+        "tipo": "Healing Spell",
+        "descricao": "Charm",
+        "cor_da_luz": "Conjuration"
+    },
+    "Fianto Duri": {
+        "encantamento": "Fianto Duri",
+        "tipo": "Charm",
+        "descricao": "Most likely hardens magical shields",
+        "cor_da_luz": "Blueish white"
+    },
+    "Fidelius Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Conceals a secret",
+        "cor_da_luz": ""
+    },
+    "Fiendfyre": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Unleashes cursed fire",
+        "cor_da_luz": "Fire"
+    },
+    "Finestra spell": {
+        "encantamento": "Finestra",
+        "tipo": "Charm",
+        "descricao": "Shatters glass",
+        "cor_da_luz": "Blue"
+    },
+    "General Counter-Spell": {
+        "encantamento": "Finite",
+        "tipo": "Counter-spell",
+        "descricao": "Terminates all spell effects",
+        "cor_da_luz": "Red"
+    },
+    "Finger-removing jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Removes a person's fingers",
+        "cor_da_luz": ""
+    },
+    "Firestorm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Ring of fire",
+        "cor_da_luz": "Crimson and gold"
+    },
+    "Flagrante Curse": {
+        "encantamento": "Flagrante",
+        "tipo": "Curse",
+        "descricao": "Causes objects to burn on contact",
+        "cor_da_luz": ""
+    },
+    "Flagrate": {
+        "encantamento": "Flagrate",
+        "tipo": "Charm",
+        "descricao": "Writes in midair",
+        "cor_da_luz": "Fiery scarlet"
+    },
+    "Flame-Freezing Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Makes fire harmless",
+        "cor_da_luz": "White"
+    },
+    "Flask-conjuring spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Conjuration",
+        "descricao": "Conjures flask",
+        "cor_da_luz": "None"
+    },
+    "Flintifors": {
+        "encantamento": "Flintifors",
+        "tipo": "Transfiguration",
+        "descricao": "Turns target into matchboxes",
+        "cor_da_luz": ""
+    },
+    "Knockback Jinx": {
+        "encantamento": "Flipendo",
+        "tipo": "Jinx",
+        "descricao": "Knocks target back",
+        "cor_da_luz": "Blue"
+    },
+    "Knockback Jinx Duo": {
+        "encantamento": "Flipendo",
+        "tipo": "Jinx",
+        "descricao": "Knocks target back",
+        "cor_da_luz": "Red"
+    },
+    "Flipendo Tria": {
+        "encantamento": "Flipendo Tria",
+        "tipo": "Jinx",
+        "descricao": "More powerful version of Flipendo",
+        "cor_da_luz": "Blue"
+    },
+    "Flying Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Allows an object to fly",
+        "cor_da_luz": ""
+    },
+    "Smokescreen Spell": {
+        "encantamento": "Fumos",
+        "tipo": "Charm",
+        "descricao": "Defensive smokescreen",
+        "cor_da_luz": "Grey"
+    },
+    "Fumos Duo": {
+        "encantamento": "Fumos Duo",
+        "tipo": "Charm",
+        "descricao": "Multiple concealing smokescreens",
+        "cor_da_luz": "Dark Red"
+    },
+    "Pimple Jinx": {
+        "encantamento": "Furnunculus",
+        "tipo": "Jinx",
+        "descricao": "Causes pimples to erupt",
+        "cor_da_luz": "Gold "
+    },
+    "Fur spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Causes fur to grow on someone",
+        "cor_da_luz": ""
+    },
+    "Doubling Charm": {
+        "encantamento": "Geminio",
+        "tipo": "Charm",
+        "descricao": "Duplicates an object",
+        "cor_da_luz": "None"
+    },
+    "Freezing Spell": {
+        "encantamento": "Glacius",
+        "tipo": "Charm",
+        "descricao": "Freezes target",
+        "cor_da_luz": "Blue"
+    },
+    "Glacius Duo": {
+        "encantamento": "Glacius Duo",
+        "tipo": "Charm",
+        "descricao": "Freezes the target",
+        "cor_da_luz": "Blue"
+    },
+    "Glacius Tria": {
+        "encantamento": "Glacius Tria",
+        "tipo": "Charm",
+        "descricao": "Freezes target enemy",
+        "cor_da_luz": "Blue"
+    },
+    "Glisseo": {
+        "encantamento": "Glisseo",
+        "tipo": "Charm",
+        "descricao": "Turns stairs into a slide",
+        "cor_da_luz": "None"
+    },
+    "Green Sparks": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Jet of green sparks",
+        "cor_da_luz": "Green"
+    },
+    "Gripping Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Makes holding easier",
+        "cor_da_luz": ""
+    },
+    "Hair-thickening Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Causes hair to grow longer and thicker",
+        "cor_da_luz": ""
+    },
+    "Harmonia Nectere Passus": {
+        "encantamento": "Harmonia Nectere Passus",
+        "tipo": "Charm",
+        "descricao": "Repairs Vanishing Cabinets",
+        "cor_da_luz": "None"
+    },
+    "Herbifors Spell": {
+        "encantamento": "Herbifors",
+        "tipo": "Transfiguration",
+        "descricao": "Transforms target into flowers",
+        "cor_da_luz": "Red or Purple"
+    },
+    "Herbivicus Charm": {
+        "encantamento": "Herbivicus",
+        "tipo": "Charm",
+        "descricao": "Rapidly grows plants",
+        "cor_da_luz": "Green"
+    },
+    "Dumbledore's Army parchment jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Causes boils to spell \"SNEAK\" on the face of a traitor",
+        "cor_da_luz": ""
+    },
+    "Homing spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Dark Arts",
+        "descricao": "Offensive spells,will follow their target",
+        "cor_da_luz": "Orange or Green"
+    },
+    "Human Presence Revealing Spell": {
+        "encantamento": "Homenum Revelio",
+        "tipo": "Charm ",
+        "descricao": "Reveals human presence",
+        "cor_da_luz": "None"
+    },
+    "Homonculous Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm ",
+        "descricao": "When cast onto a map",
+        "cor_da_luz": "it enables to track the movements of every person in the mapped area"
+    },
+    "Homorphus Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm ",
+        "descricao": "May temporarily change a transformed werewolf back into their human form (according to Gilderoy Lockhart",
+        "cor_da_luz": "it cures lycanthropy)"
+    },
+    "Horn tongue hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Transforms target's tongue into a horn",
+        "cor_da_luz": ""
+    },
+    "Horton-Keitch Braking Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Allow broomsticks to brake more easily",
+        "cor_da_luz": ""
+    },
+    "Horcrux-making spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Dark Arts",
+        "descricao": "Prepared a receptacle to become a Horcrux",
+        "cor_da_luz": ""
+    },
+    "Hot-Air Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Jet of hot air",
+        "cor_da_luz": "None"
+    },
+    "Hour-Reversal Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Reverses time",
+        "cor_da_luz": "Blue"
+    },
+    "Hover Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Makes objects hover",
+        "cor_da_luz": "Pink"
+    },
+    "Hurling Hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Unclear",
+        "cor_da_luz": "possibly causes a broomstick to attempt to hurl its rider off."
+    },
+    "Illegibilus": {
+        "encantamento": "Illegibilus",
+        "tipo": "Charm",
+        "descricao": "Makes text illegible",
+        "cor_da_luz": ""
+    },
+    "Freezing Charm": {
+        "encantamento": "Immobulus",
+        "tipo": "Charm",
+        "descricao": "Stops movement and actions of the target",
+        "cor_da_luz": "Blue"
+    },
+    "Impediment Jinx": {
+        "encantamento": "Impedimenta",
+        "tipo": "Jinx",
+        "descricao": "Hinders movement",
+        "cor_da_luz": "Turquoise"
+    },
+    "Imperius Curse": {
+        "encantamento": "Imperio",
+        "tipo": "Curse",
+        "descricao": "Total control over the victim",
+        "cor_da_luz": "None"
+    },
+    "Imperturbable Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Invisible barrier",
+        "cor_da_luz": ""
+    },
+    "Impervius Charm": {
+        "encantamento": "Impervius ",
+        "tipo": "Charm",
+        "descricao": "Waterproofs an object",
+        "cor_da_luz": "None"
+    },
+    "Inanimatus Conjurus Spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Transfiguration",
+        "descricao": "Presumably conjuresinanimate objects",
+        "cor_da_luz": ""
+    },
+    "Incarcerous Spell": {
+        "encantamento": "Incarcerous",
+        "tipo": "Conjuration",
+        "descricao": "Binds target in ropes",
+        "cor_da_luz": "None"
+    },
+    "Fire-Making Spell": {
+        "encantamento": "Incendio",
+        "tipo": "Charm",
+        "descricao": "Conjures flames",
+        "cor_da_luz": "Orange and Red"
+    },
+    "Incendio Duo Spell": {
+        "encantamento": "Incendio",
+        "tipo": "Charm",
+        "descricao": "Conjures flames",
+        "cor_da_luz": "Green"
+    },
+    "Incendio Tria": {
+        "encantamento": "Incendio Tria",
+        "tipo": "Charm",
+        "descricao": "Conjures blue flames",
+        "cor_da_luz": "Blue"
+    },
+    "Inflating Charm": {
+        "encantamento": "Inflatus",
+        "tipo": "Charm",
+        "descricao": "Inflates target",
+        "cor_da_luz": "Blue"
+    },
+    "Informous Spell": {
+        "encantamento": "Informous",
+        "tipo": "Charm",
+        "descricao": "Adds to the Folio Bruti",
+        "cor_da_luz": "Blue"
+    },
+    "Instant Scalping Hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Instantly scalps hair",
+        "cor_da_luz": ""
+    },
+    "Intruder Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Detects intruders and sounds an alarm",
+        "cor_da_luz": ""
+    },
+    "Jelly-Legs Curse": {
+        "encantamento": "Locomotor Wibbly",
+        "tipo": "Curse",
+        "descricao": " Jinx",
+        "cor_da_luz": "Legs become wobbly"
+    },
+    "Jelly-Brain Jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Dulls mental abilities",
+        "cor_da_luz": ""
+    },
+    "Jelly-Fingers Curse": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Fingers become wobbly",
+        "cor_da_luz": ""
+    },
+    "Knee-reversal hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Puts knees on backward",
+        "cor_da_luz": ""
+    },
+    "Lacarnum Inflamari": {
+        "encantamento": "Lacarnum Inflamari",
+        "tipo": "Charm",
+        "descricao": "Ignites cloaks",
+        "cor_da_luz": "Orange"
+    },
+    "Langlock": {
+        "encantamento": "Langlock",
+        "tipo": "Jinx",
+        "descricao": "Sticks tongue to roof of the mouth",
+        "cor_da_luz": "None"
+    },
+    "Lapifors Spell": {
+        "encantamento": "Lapifors",
+        "tipo": "Transfiguration",
+        "descricao": "Turns target into rabbit",
+        "cor_da_luz": "Green"
+    },
+    "Leek jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Leeks sprout from ears",
+        "cor_da_luz": ""
+    },
+    "Legilimency Spell": {
+        "encantamento": "Legilimens",
+        "tipo": "Charm",
+        "descricao": "Lets caster see into the mind of another person",
+        "cor_da_luz": "Psychadelic transparent wave"
+    },
+    "Levicorpus": {
+        "encantamento": "Levicorpus",
+        "tipo": "Jinx",
+        "descricao": "Suspends people by the ankles",
+        "cor_da_luz": "Green"
+    },
+    "Liberacorpus": {
+        "encantamento": "Liberacorpus",
+        "tipo": "Counter-jinx",
+        "descricao": "Counteracts Levicorpus",
+        "cor_da_luz": "None"
+    },
+    "Locomotion Charm": {
+        "encantamento": "Locomotor",
+        "tipo": "Charm",
+        "descricao": "Moves objects in midair",
+        "cor_da_luz": "None"
+    },
+    "Leg-Locker Curse": {
+        "encantamento": "Locomotor Mortis",
+        "tipo": "Curse",
+        "descricao": "Sticks legs together",
+        "cor_da_luz": "Purple"
+    },
+    "Wand-Lighting Charm": {
+        "encantamento": "Lumos",
+        "tipo": "Charm",
+        "descricao": "Illuminates the wand tip",
+        "cor_da_luz": "White"
+    },
+    "Wand-Lighting Charm Duo": {
+        "encantamento": "Lumos Duo",
+        "tipo": "Charm",
+        "descricao": "Focused beam of light",
+        "cor_da_luz": "White"
+    },
+    "Lumos Maxima": {
+        "encantamento": "Lumos Maxima",
+        "tipo": "Charm",
+        "descricao": "Produces bright light",
+        "cor_da_luz": "White"
+    },
+    "Lumos Solem Spell": {
+        "encantamento": "Lumos Solem",
+        "tipo": "Charm",
+        "descricao": "Produces sunlight",
+        "cor_da_luz": "Bright yellow"
+    },
+    "Magicus Extremos": {
+        "encantamento": "Magicus Extremos",
+        "tipo": "Charm",
+        "descricao": "Temporarily increases casters' spell power",
+        "cor_da_luz": "Pink"
+    },
+    "Melofors Jinx": {
+        "encantamento": "Melofors",
+        "tipo": "Conjuration",
+        "descricao": " Jinx",
+        "cor_da_luz": "Encases head in pumpkin"
+    },
+    "Meteolojinx Recanto": {
+        "encantamento": "Meteolojinx Recanto",
+        "tipo": "Counter-charm",
+        "descricao": "Causes weather effects caused by incantations to cease",
+        "cor_da_luz": "None"
+    },
+    "Tongue-Tying Curse": {
+        "encantamento": "Mimblewimble",
+        "tipo": "Curse",
+        "descricao": "Ties tongue in knot",
+        "cor_da_luz": "Blue"
+    },
+    "Ministry of Magic Fog": {
+        "encantamento": "Desconhecido",
+        "tipo": "Patented Charm",
+        "descricao": "Produces special fog (for concealment of certain locations)",
+        "cor_da_luz": ""
+    },
+    "Mobiliarbus": {
+        "encantamento": "Mobiliarbus",
+        "tipo": "Charm",
+        "descricao": "Levitates wooden things",
+        "cor_da_luz": "Blue"
+    },
+    "Mobilicorpus": {
+        "encantamento": "Mobilicorpus",
+        "tipo": "Charm",
+        "descricao": "Moves bodies",
+        "cor_da_luz": "None"
+    },
+    "Cushioning Charm": {
+        "encantamento": "Molliare",
+        "tipo": "Charm",
+        "descricao": "Invisible cushion",
+        "cor_da_luz": ""
+    },
+    "Dark Mark": {
+        "encantamento": "Morsmordre",
+        "tipo": "Curse",
+        "descricao": "Conjures Dark Mark",
+        "cor_da_luz": "Green"
+    },
+    "Curse of the Bogies": {
+        "encantamento": "Mucus ad Nauseam",
+        "tipo": "Curse",
+        "descricao": "Nasty cold & runny nose",
+        "cor_da_luz": "Green"
+    },
+    "Muffliato Charm": {
+        "encantamento": "Muffliato ",
+        "tipo": "Charm",
+        "descricao": "Conceals sound",
+        "cor_da_luz": "None"
+    },
+    "Multicorfors Spell": {
+        "encantamento": "Multicorfors ",
+        "tipo": "Transfiguration",
+        "descricao": "Changes clothes",
+        "cor_da_luz": "Red"
+    },
+    "Mutatio Skullus": {
+        "encantamento": "Mutatio Skullus",
+        "tipo": "Hex",
+        "descricao": "Grows extra heads",
+        "cor_da_luz": ""
+    },
+    "Wand-Extinguishing Charm": {
+        "encantamento": "Nox",
+        "tipo": "Charm",
+        "descricao": "Extinguishes wandlight",
+        "cor_da_luz": ""
+    },
+    "Nebulus": {
+        "encantamento": "Nebulus",
+        "tipo": "Charm",
+        "descricao": "Conjures fog",
+        "cor_da_luz": "Grey"
+    },
+    "Oculus Reparo": {
+        "encantamento": "Oculus Reparo",
+        "tipo": "Charm",
+        "descricao": "Repairs glasses",
+        "cor_da_luz": "None"
+    },
+    "Obliteration Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Removes footprints",
+        "cor_da_luz": ""
+    },
+    "Memory Charm": {
+        "encantamento": "Obliviate ",
+        "tipo": "Charm",
+        "descricao": "Erases memories",
+        "cor_da_luz": "Green"
+    },
+    "Obscuro": {
+        "encantamento": "Obscuro",
+        "tipo": "Conjuration",
+        "descricao": "Blindfolds target",
+        "cor_da_luz": "None"
+    },
+    "Oppugno Jinx": {
+        "encantamento": "Oppugno ",
+        "tipo": "Jinx",
+        "descricao": "Assaults target with directed object(s)",
+        "cor_da_luz": "None"
+    },
+    "Orbis Jinx": {
+        "encantamento": "Orbis",
+        "tipo": "Jinx",
+        "descricao": "Sucks the target into the ground",
+        "cor_da_luz": "Blue"
+    },
+    "Orchideous": {
+        "encantamento": "Orchideous",
+        "tipo": "Conjuration",
+        "descricao": "Conjures flowers",
+        "cor_da_luz": "Pink"
+    },
+    "Oscausi": {
+        "encantamento": "Oscausi",
+        "tipo": "Dark charm",
+        "descricao": "Seals mouth",
+        "cor_da_luz": "White"
+    },
+    "Pack": {
+        "encantamento": "Pack",
+        "tipo": "Charm",
+        "descricao": "Packs luggage",
+        "cor_da_luz": "None"
+    },
+    "Papyrus Reparo": {
+        "encantamento": "Papyrus Reparo",
+        "tipo": "Charm",
+        "descricao": "Mends torn paper",
+        "cor_da_luz": "None"
+    },
+    "Patented Daydream Charm": {
+        "encantamento": "",
+        "tipo": "Charm",
+        "descricao": "Makes the user daydream for 30 minutes",
+        "cor_da_luz": ""
+    },
+    "Partis Temporus": {
+        "encantamento": "Partis Temporus",
+        "tipo": "Charm",
+        "descricao": "Parts the target",
+        "cor_da_luz": "None"
+    },
+    "Pepper breath hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Inflicts fiery hot breath",
+        "cor_da_luz": ""
+    },
+    "Periculum": {
+        "encantamento": "Periculum",
+        "tipo": "Charm",
+        "descricao": "Burst of red sparks",
+        "cor_da_luz": "Red"
+    },
+    "Permanent Sticking Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Sticks object permanently in place",
+        "cor_da_luz": ""
+    },
+    "Peskipiksi Pesternomi": {
+        "encantamento": "Peskipiksi Pesternomi",
+        "tipo": "Charm",
+        "descricao": "Nothing (supposedly captures pixies)",
+        "cor_da_luz": "None"
+    },
+    "Full Body-Bind Curse": {
+        "encantamento": "Petrificus Totalus",
+        "tipo": "Curse",
+        "descricao": "Temporary Paralysis",
+        "cor_da_luz": "White"
+    },
+    "Piertotum Locomotor": {
+        "encantamento": "Piertotum Locomotor",
+        "tipo": "Charm",
+        "descricao": "Animates target",
+        "cor_da_luz": "None or Green"
+    },
+    "Piscifors": {
+        "encantamento": "Piscifors",
+        "tipo": "Transfiguration",
+        "descricao": "Turns target into fish",
+        "cor_da_luz": "Blue"
+    },
+    "Placement Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Places object on target",
+        "cor_da_luz": ""
+    },
+    "Four-Point Spell": {
+        "encantamento": "Point Me",
+        "tipo": "Spell",
+        "descricao": "Wand points due north",
+        "cor_da_luz": "None"
+    },
+    "Portus": {
+        "encantamento": "Portus",
+        "tipo": "Charm",
+        "descricao": "Turns object into Portkey",
+        "cor_da_luz": "Blue"
+    },
+    "Reverse Spell": {
+        "encantamento": "Prior Incantato",
+        "tipo": "Charm",
+        "descricao": "Shows the previous spells cast by a wand",
+        "cor_da_luz": "Gold"
+    },
+    "Protean Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Links objects",
+        "cor_da_luz": ""
+    },
+    "Shield Charm": {
+        "encantamento": "Protego",
+        "tipo": "Charm",
+        "descricao": "Reflects spells and blocks physical forces",
+        "cor_da_luz": "Invisible on its own"
+    },
+    "Protego Diabolica": {
+        "encantamento": "Protego Diabolica",
+        "tipo": "Dark Arts",
+        "descricao": "Ring of protective black fire that only burns the caster's enemies whilst leaving their allies unharmed",
+        "cor_da_luz": ""
+    },
+    "Protego horribilis": {
+        "encantamento": "Protego horribilis",
+        "tipo": "Charm",
+        "descricao": "Summons a powerful protective barrier",
+        "cor_da_luz": ""
+    },
+    "Protego Maxima": {
+        "encantamento": "Protego Maxima",
+        "tipo": "Charm",
+        "descricao": "Summons a large protective barrier",
+        "cor_da_luz": "White"
+    },
+    "Protego totalum": {
+        "encantamento": "Protego totalum",
+        "tipo": "Charm",
+        "descricao": "Shields an area",
+        "cor_da_luz": "None"
+    },
+    "Purple Firecrackers": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Exploding firecrackers",
+        "cor_da_luz": ""
+    },
+    "Pus-squirting hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Causes yellowish goo to squirt from one's nose",
+        "cor_da_luz": "None (bang)"
+    },
+    "Quietening Charm": {
+        "encantamento": "Quietus",
+        "tipo": "Charm",
+        "descricao": "Quietens target",
+        "cor_da_luz": "None"
+    },
+    "Head Shrink Spell": {
+        "encantamento": "Redactum Skullus",
+        "tipo": "Hex",
+        "descricao": " Counter-curse",
+        "cor_da_luz": "Shrinks head"
+    },
+    "Shrinking Charm": {
+        "encantamento": "Reducio",
+        "tipo": "Charm",
+        "descricao": "Shrinks target",
+        "cor_da_luz": "Purple"
+    },
+    "Reductor Curse": {
+        "encantamento": "Reducto",
+        "tipo": "Curse",
+        "descricao": "Destroys solid objects",
+        "cor_da_luz": "Blue"
+    },
+    "Refilling Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Refills beverage containers",
+        "cor_da_luz": "None"
+    },
+    "Reparifors": {
+        "encantamento": "Reparifors",
+        "tipo": "Healing spell",
+        "descricao": "Charm",
+        "cor_da_luz": "Heals minor magically induced ailments"
+    },
+    "Reverte": {
+        "encantamento": "Reverte",
+        "tipo": "Charm",
+        "descricao": "Returns objects to their original positions or states",
+        "cor_da_luz": ""
+    },
+    "Revulsion Jinx": {
+        "encantamento": "Relashio",
+        "tipo": "Jinx",
+        "descricao": "Forces target to let go",
+        "cor_da_luz": "Purple"
+    },
+    "Reviving Spell": {
+        "encantamento": "Rennervate",
+        "tipo": "Charm",
+        "descricao": "Awakens victim",
+        "cor_da_luz": "Red"
+    },
+    "Reparifarge": {
+        "encantamento": "Reparifarge",
+        "tipo": "Untransfiguration",
+        "descricao": "Reverses the effects of an incomplete Transformation spell",
+        "cor_da_luz": "White"
+    },
+    "Mending Charm": {
+        "encantamento": "Reparo",
+        "tipo": "Charm",
+        "descricao": "Fixes broken objects",
+        "cor_da_luz": "None"
+    },
+    "Muggle-Repelling Charm": {
+        "encantamento": "Repello Muggletum",
+        "tipo": "Charm",
+        "descricao": "Repels Muggles",
+        "cor_da_luz": "None (haze)"
+    },
+    "Repello Inimicum": {
+        "encantamento": "Repello Inimicum",
+        "tipo": "Charm",
+        "descricao": "Repels enemies. If used with Protego Maxima and Fianto Duri",
+        "cor_da_luz": "it disintegrates anything that comes in contact with the barrier."
+    },
+    "Revelio Charm": {
+        "encantamento": "Revelio",
+        "tipo": "Charm",
+        "descricao": "Reveals secrets about a person or object",
+        "cor_da_luz": "Blue"
+    },
+    "Tickling Charm": {
+        "encantamento": "Rictusempra",
+        "tipo": "Charm",
+        "descricao": "Tickles and weakens",
+        "cor_da_luz": "Silver"
+    },
+    "Boggart-Banishing Spell": {
+        "encantamento": "Riddikulus",
+        "tipo": "Charm",
+        "descricao": "Turns a Boggart into something amusing",
+        "cor_da_luz": "None"
+    },
+    "Rose Growth": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": " Transfiguration",
+        "cor_da_luz": "Accelerates the growth of a rosebush"
+    },
+    "Rowboat spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Causes a rowboat to propel itself.",
+        "cor_da_luz": ""
+    },
+    "Salvio hexia": {
+        "encantamento": "Salvio hexia",
+        "tipo": "Charm",
+        "descricao": "Hex deflection",
+        "cor_da_luz": "None (haze)"
+    },
+    "Sardine hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Victim sneezes sardines",
+        "cor_da_luz": ""
+    },
+    "Sauce-making spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Conjuration",
+        "descricao": "Conjures sauce",
+        "cor_da_luz": "None"
+    },
+    "Minerva McGonagall's fire-creating spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Creates fire",
+        "cor_da_luz": "Orange"
+    },
+    "Scouring Charm": {
+        "encantamento": "Scourgify",
+        "tipo": "Charm",
+        "descricao": "Cleans objects",
+        "cor_da_luz": "None"
+    },
+    "Sealant Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Seals envelopes",
+        "cor_da_luz": ""
+    },
+    "Sea urchin jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Transfiguration jinx",
+        "descricao": "Makes tiny spikes erupt all over the victim",
+        "cor_da_luz": ""
+    },
+    "Sectumsempra": {
+        "encantamento": "Sectumsempra",
+        "tipo": "Curse",
+        "descricao": "Lacerates target",
+        "cor_da_luz": "White"
+    },
+    "Shield penetration spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Used to break down magical shields",
+        "cor_da_luz": "Bluish-white"
+    },
+    "Shooting spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Small explosion with a gunshot-sound",
+        "cor_da_luz": "None"
+    },
+    "Smashing spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Explosive",
+        "cor_da_luz": "Blue"
+    },
+    "Snake Summons Spell": {
+        "encantamento": "Serpensortia",
+        "tipo": "Conjuration",
+        "descricao": "Conjures snake",
+        "cor_da_luz": "White"
+    },
+    "Silencing Charm": {
+        "encantamento": "Silencio",
+        "tipo": "Charm",
+        "descricao": "Silences target",
+        "cor_da_luz": "None"
+    },
+    "Skurge Charm": {
+        "encantamento": "Skurge",
+        "tipo": "Charm",
+        "descricao": "Cleans ectoplasm",
+        "cor_da_luz": "Frightens ghosts and other spirits"
+    },
+    "Slippery Jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Makes object slippery",
+        "cor_da_luz": ""
+    },
+    "Slug-vomiting Charm": {
+        "encantamento": "Slugulus Eructo",
+        "tipo": "Curse",
+        "descricao": "Victim vomits slugs",
+        "cor_da_luz": "Green"
+    },
+    "Sonorous Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Emits a magnified roar from the tip of the wand",
+        "cor_da_luz": "Orange"
+    },
+    "Amplifying Charm": {
+        "encantamento": "Sonorus",
+        "tipo": "Charm",
+        "descricao": "Loudens target",
+        "cor_da_luz": "None"
+    },
+    "Specialis Revelio": {
+        "encantamento": "Specialis Revelio",
+        "tipo": "Charm",
+        "descricao": "Reveals spells cast on objects or potions",
+        "cor_da_luz": "None"
+    },
+    "Sponge-Knees Curse": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Causes the target's legs to become spongy",
+        "cor_da_luz": ""
+    },
+    "Softening Charm": {
+        "encantamento": "Spongify",
+        "tipo": "Charm",
+        "descricao": "Softens objects",
+        "cor_da_luz": "Purple or Orange"
+    },
+    "Squiggle Quill": {
+        "encantamento": "Desconhecido",
+        "tipo": "Transfiguration",
+        "descricao": "Transfigures writing quills into worms",
+        "cor_da_luz": ""
+    },
+    "Stealth Sensoring Spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Detects those under magicaldisguise.",
+        "cor_da_luz": ""
+    },
+    "Steleus": {
+        "encantamento": "Steleus",
+        "tipo": "Hex",
+        "descricao": "Causes target to sneeze",
+        "cor_da_luz": "Green"
+    },
+    "Stinging Jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": " Hex",
+        "cor_da_luz": "Stings flesh"
+    },
+    "Stretching Jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Expands the target",
+        "cor_da_luz": ""
+    },
+    "Stunning Spell": {
+        "encantamento": "Stupefy",
+        "tipo": "Charm",
+        "descricao": "Knocks out target",
+        "cor_da_luz": "Red"
+    },
+    "Supersensory Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Superior perception",
+        "cor_da_luz": ""
+    },
+    "Surgito": {
+        "encantamento": "Surgito",
+        "tipo": "Counter-charm",
+        "descricao": "Removes enchantments",
+        "cor_da_luz": ""
+    },
+    "Switching Spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Transfiguration",
+        "descricao": "Switches two objects",
+        "cor_da_luz": "White"
+    },
+    "Taboo": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "When a word is spoken",
+        "cor_da_luz": "the caster is alerted and protective enchantments around the speaker are weakened."
+    },
+    "Tail-growing hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Gives the victim a tail",
+        "cor_da_luz": ""
+    },
+    "Dancing Feet Spell": {
+        "encantamento": "Tarantallegra ",
+        "tipo": "Jinx",
+        "descricao": "Sends legs out of control",
+        "cor_da_luz": ""
+    },
+    "Teacup to tortoise": {
+        "encantamento": "Desconhecido",
+        "tipo": "Transfiguration",
+        "descricao": "Transforms a teacup into a tortoise",
+        "cor_da_luz": "Blue"
+    },
+    "Teapot to tortoise": {
+        "encantamento": "Desconhecido",
+        "tipo": "Transfiguration",
+        "descricao": "Transforms a teapot into a tortoise",
+        "cor_da_luz": "Orange"
+    },
+    "Teeth-straightening spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Straightens teeth",
+        "cor_da_luz": ""
+    },
+    "Teleportation spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Makes objects teleport elsewhere",
+        "cor_da_luz": ""
+    },
+    "Tentaclifors": {
+        "encantamento": "Tentaclifors",
+        "tipo": "Transfiguration Jinx",
+        "descricao": "Turns victim's head into tentacle",
+        "cor_da_luz": "Purple"
+    },
+    "Tergeo": {
+        "encantamento": "Tergeo",
+        "tipo": "Charm",
+        "descricao": "Cleans up objects",
+        "cor_da_luz": "None"
+    },
+    "Tickling Hex": {
+        "encantamento": "Titillando",
+        "tipo": "Hex",
+        "descricao": "Tickles and weakens",
+        "cor_da_luz": "Purple"
+    },
+    "Toenail-growing hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Causes its victim's toenails to grow alarmingly fast",
+        "cor_da_luz": ""
+    },
+    "Transmogrifian Torture": {
+        "encantamento": "Desconhecido",
+        "tipo": "Curse",
+        "descricao": "Tortures",
+        "cor_da_luz": "possibly by transfiguring the target to death"
+    },
+    "Trip Jinx": {
+        "encantamento": "Desconhecido",
+        "tipo": "Jinx",
+        "descricao": "Trips victim",
+        "cor_da_luz": ""
+    },
+    "Twitchy-Ears Hex": {
+        "encantamento": "Desconhecido",
+        "tipo": "Hex",
+        "descricao": "Makes victim's ears twitch",
+        "cor_da_luz": ""
+    },
+    "Unbreakable Charm": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm ",
+        "descricao": "Makes object unbreakable",
+        "cor_da_luz": ""
+    },
+    "Unbreakable Vow": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Magical vow that is fatal if broken",
+        "cor_da_luz": "Red"
+    },
+    "Unsupported flight": {
+        "encantamento": "Desconhecido",
+        "tipo": "Spell",
+        "descricao": "Allows a witch or wizard to fly unaided",
+        "cor_da_luz": ""
+    },
+    "Vacuum cleaner spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Cleans an object like a vacuum cleaner",
+        "cor_da_luz": "None"
+    },
+    "Ventus Jinx": {
+        "encantamento": "Ventus",
+        "tipo": "Jinx",
+        "descricao": "Jet of spiralling wind",
+        "cor_da_luz": "Grey"
+    },
+    "Ventus Duo": {
+        "encantamento": "Ventus Duo",
+        "tipo": "Jinx",
+        "descricao": "Creates a stronger jet of wind compared to Ventus",
+        "cor_da_luz": ""
+    },
+    "Vera Verto": {
+        "encantamento": "Vera Verto",
+        "tipo": "Transfiguration",
+        "descricao": "Transforms animals into water goblets",
+        "cor_da_luz": "Crystal clear"
+    },
+    "Verdillious": {
+        "encantamento": "Verdillious",
+        "tipo": "Charm",
+        "descricao": "Causes the wand tip to burn like a sparkler whilst damaging the foe.",
+        "cor_da_luz": "Green"
+    },
+    "Verdimillious Charm": {
+        "encantamento": "Verdimillious",
+        "tipo": "Charm",
+        "descricao": "Emits green sparks from the wand that can: Do damage to opponents ",
+        "cor_da_luz": "Reveal hidden things"
+    },
+    "Verdimillious Duo Spell": {
+        "encantamento": "Verdimillious",
+        "tipo": "Charm",
+        "descricao": "Emits green sparks from the wand that can: Do damage to opponents ",
+        "cor_da_luz": "Reveal hidden things"
+    },
+    "Vermiculus Jinx": {
+        "encantamento": "Vermiculus",
+        "tipo": "Jinx",
+        "descricao": "Turns things into worms",
+        "cor_da_luz": "Yellow"
+    },
+    "Red Sparks": {
+        "encantamento": "Vermillious",
+        "tipo": "Charm",
+        "descricao": "Jet of red sparks",
+        "cor_da_luz": "Red"
+    },
+    "Snake-Vanishing Spell": {
+        "encantamento": "Vipera Evanesca",
+        "tipo": "Vanishment",
+        "descricao": "Vanishes snakes",
+        "cor_da_luz": "Black smoke"
+    },
+    "Vulnera Sanentur": {
+        "encantamento": "Vulnera Sanentur",
+        "tipo": "Healing spell",
+        "descricao": "Counter-curse",
+        "cor_da_luz": "Slows blood flow"
+    },
+    "Waddiwasi": {
+        "encantamento": "Waddiwasi",
+        "tipo": "Jinx",
+        "descricao": "Propels wad at the target",
+        "cor_da_luz": "None"
+    },
+    "Washing up spell": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Cleans dishes",
+        "cor_da_luz": "None"
+    },
+    "Levitation Charm": {
+        "encantamento": "Wingardium Leviosa",
+        "tipo": "Charm",
+        "descricao": "Makes objects fly",
+        "cor_da_luz": "None"
+    },
+    "White sparks": {
+        "encantamento": "Desconhecido",
+        "tipo": "Charm",
+        "descricao": "Jet of white sparks",
+        "cor_da_luz": "White"
+    },
+    "Episkey": {
+        "encantamento": "Episkey",
+        "tipo": "Healing spell",
+        "descricao": "Charm",
+        "cor_da_luz": "Heals minor injuries"
+    }
+}
