@@ -46,21 +46,21 @@ Cada aula possui:
 2. Códigos de exemplo
 3. Um arquivo README explicando o conteúdo dos códigos e dos slides dentro da pasta de cada aula
 4. Desafios _online_ a serem realizados **dentro** do horário de aula.
-5. Desafios _offline_ na plataforma [Microsoft Learn](https://docs.microsoft.com/pt-BR/learn/) a serem realizados **fora** do horário de aula.
+5. Algumas aulas também possuem desafios _offline_ na plataforma [Microsoft Learn](https://docs.microsoft.com/pt-BR/learn/) a serem realizados **fora** do horário de aula.
 
 
-|                 Módulo               | Aula |                        Tópicos                               |
-| ------------------------------------ | ---- | ------------------------------------------------------------ |
-| 1 - Lógica de Programação            |  1   | Interpretador Python, `print`, console, comentários, `input`, variáveis, tipos de dados, strings. |
-| 1 - Lógica de Programação            |  2   | Dados numéricos, dados booleanos, dados de data e tempo, operadores aritméticos, operadores de comparação, funções nativas, lógica condicional |
-| 1 - Lógica de Programação            |  3   | Listas, arrays, estruturas de repetição (loops), funções, módulos, pacotes e _namespaces_ |
-| 1 - Lógica de Programação            |  4   | Erros e tratamento de exceções, debug, listas (parte 2), pilhas, filas e tuplas |
-| 1 - Lógica de Programação            |  5   | Dicionários, sets (conjuntos), técnicas de loops em containers, fluxo de execução e parâmetros em linha de comando |
-| 1 - Lógica de Programação            |  6   | Manipulação de arquivos, JSON, CSVs |
-| 1 - Lógica de Programação            |  7   | Decorators e APIs |
-| 2 - Programação Orientada a Objetos  |  8   | Orientação a objetos, classes, modelagem de um sistema real usando orientação a objetos |
-| 2 - Programação Orientada a Objetos  |  9   | Construtores e destrutores, encapsulamento, propriedades, herança, herança múltipla (_mixins_) |
-| 2 - Programação Orientada a Objetos  |  10  | Polimorfismo e classes abstratas |
+|                 Módulo               | Aula |                        Tópicos                               |       Desafios para entrega        |
+| ------------------------------------ | ---- | ------------------------------------------------------------ | ---------------------------------- |
+| 1 - Lógica de Programação            |  1   | Interpretador Python, `print`, console, comentários, `input`, variáveis, tipos de dados, strings. | [Desafio 1](./aula01/04_desafio_1.py), [Desafio 2](./aula01/07_desafio_2.py), [Intro ao Python](https://docs.microsoft.com/pt-br/learn/modules/intro-to-python/), [Usar cadeias de caracteres no Python](https://docs.microsoft.com/pt-br/learn/modules/python-strings/) | 
+| 1 - Lógica de Programação            |  2   | Dados numéricos, dados booleanos, dados de data e tempo, operadores aritméticos, operadores de comparação, funções nativas, lógica condicional |  [Desafio 3](./aula02/04_desafio_3.py), [Usar operações matemáticas no Python](https://docs.microsoft.com/pt-br/learn/modules/python-math-operators/), [Usar lógica Booliana em Python](https://docs.microsoft.com/pt-br/learn/modules/python-boolean-types/) | 
+| 1 - Lógica de Programação            |  3   | Listas, arrays, estruturas de repetição (loops), funções, módulos, pacotes e _namespaces_ | [Desafio 5](./aula03/03_desafio_5.py), [Desafio 6](./aula03/06_desafio_6.py), [Usar loops "while" e "for" em Python](https://docs.microsoft.com/pt-br/learn/modules/python-loops/)|
+| 1 - Lógica de Programação            |  4   | Erros e tratamento de exceções, debug, listas (parte 2), pilhas, filas e tuplas | [Desafio 7](./aula04/03_desafio_7.py), [Introdução às listas no Python](https://docs.microsoft.com/pt-br/learn/modules/intro-python-lists/) |
+| 1 - Lógica de Programação            |  5   | Dicionários, sets (conjuntos), técnicas de loops em containers, fluxo de execução e parâmetros em linha de comando | [Desafio 9](./aula05/03_desafio_9.py), [Gerenciar Dados com Dicionários no Python](https://docs.microsoft.com/pt-br/learn/modules/python-dictionaries/) |
+| 1 - Lógica de Programação            |  6   | Manipulação de arquivos, JSON, CSVs | [Desafio 11](./aula06/04_desafio_11.py), [Desafio 12](./aula06/08_desafio_12.py) | 
+| 1 - Lógica de Programação            |  7   | Decorators e APIs | [Desafio 13](./aula07/03_desafio_13.py), [Desafio 14](./aula07/07_desafio_14.py), [Explorar o mundo das artes usando APIs RESTful](https://docs.microsoft.com/pt-br/learn/modules/use-apis-discover-museum-art/) |
+| 2 - Programação Orientada a Objetos  |  8   | Orientação a objetos, classes, modelagem de um sistema real usando orientação a objetos | [Desafio 15](./aula08/02_desafio_15.py), [Introdução à programação orientada a objetos com Python](https://docs.microsoft.com/pt-br/learn/modules/python-object-oriented-programming/) |
+| 2 - Programação Orientada a Objetos  |  9   | Construtores e destrutores, encapsulamento, propriedades, herança, herança múltipla (_mixins_) | - |
+| 2 - Programação Orientada a Objetos  |  10  | Polimorfismo e classes abstratas | [Desafio 17](./aula10/03_desafio_17.py) |
 
 ## Referências
 * [Microsoft Shows - Python for Beginners](https://docs.microsoft.com/pt-br/shows/intro-to-python-development/)
