@@ -38,6 +38,30 @@ Ao clonar o repositório, realize o primeiro `commit` incluindo seu nome neste a
 
 Bons estudos e divirta-se!
 
+## Guia de Conteúdo
+
+Cada aula possui:
+
+1. Slides (dentro da pasta [slides](./slides))
+2. Códigos de exemplo
+3. Um arquivo README explicando o conteúdo dos códigos e dos slides dentro da pasta de cada aula
+4. Desafios _online_ a serem realizados **dentro** do horário de aula.
+5. Desafios _offline_ na plataforma [Microsoft Learn](https://docs.microsoft.com/pt-BR/learn/) a serem realizados **fora** do horário de aula.
+
+
+|                 Módulo               | Aula |                        Tópicos                               |
+| ------------------------------------ | ---- | ------------------------------------------------------------ |
+| 1 - Lógica de Programação            |  1   | Interpretador Python, `print`, console, comentários, `input`, variáveis, tipos de dados, strings. |
+| 1 - Lógica de Programação            |  2   | Dados numéricos, dados booleanos, dados de data e tempo, operadores aritméticos, operadores de comparação, funções nativas, lógica condicional |
+| 1 - Lógica de Programação            |  3   | Listas, arrays, estruturas de repetição (loops), funções, módulos, pacotes e _namespaces_ |
+| 1 - Lógica de Programação            |  4   | Erros e tratamento de exceções, debug, listas (parte 2), pilhas, filas e tuplas |
+| 1 - Lógica de Programação            |  5   | Dicionários, sets (conjuntos), técnicas de loops em containers, fluxo de execução e parâmetros em linha de comando |
+| 1 - Lógica de Programação            |  6   | Manipulação de arquivos, JSON, CSVs |
+| 1 - Lógica de Programação            |  7   | Decorators e APIs |
+| 2 - Programação Orientada a Objetos  |  8   | Orientação a objetos, classes, modelagem de um sistema real usando orientação a objetos |
+| 2 - Programação Orientada a Objetos  |  9   | Construtores e destrutores, encapsulamento, propriedades, herança, herança múltipla (_mixins_) |
+| 2 - Programação Orientada a Objetos  |  10  | Polimorfismo e classes abstratas |
+
 ## Referências
 * [Microsoft Shows - Python for Beginners](https://docs.microsoft.com/pt-br/shows/intro-to-python-development/)
 * [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)
